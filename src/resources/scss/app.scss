@@ -1,0 +1,5 @@
+// Tích hợp scss bằng node: npm install node-sass --save-dev
+@import 'variables';
+h1 {
+    color: $yellow-color;
+}
